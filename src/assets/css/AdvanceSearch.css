@@ -1,0 +1,53 @@
+.form-container{
+    border:2px solid;
+    width: 60%;
+    height: 40rem;
+    background-color: #1D3354;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    border-radius:10px;
+    color:#fff;
+    padding-top:10px;
+}
+
+.advance-search-form{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 20px;
+}
+
+.form-container > button{
+    background-color: #bef5ff;
+    width:70%;
+    height: 10px;
+    margin:0 10px;
+    border-radius: 7px;
+    border: none;
+    align-items: center;
+}
+
+/* Override styles for DropdownList */
+.rw-dropdownlist-input {
+    width: 50%; /* Set your desired width */
+    height: 20px;
+}
+  
+  /* Override styles for NumberPicker */
+.rw-number-picker {
+    width: 50%; /* Set your desired width */
+    height: 5px;
+}
+  
+/* Override styles for DatePicker */
+.rw-datepicker {
+    width: 50%; /* Set your desired width */
+    height: 5px;
+}
+  
+/* Optionally, adjust the font size for all components */
+.rw-widget {
+    font-size: 10px; /* Set your desired font size */
+    margin:5px;
+}
+
+

@@ -1,0 +1,202 @@
+{
+	"properties": [
+        {
+            "id":"prop1",
+			"type":"House",
+            "bedrooms":4,
+			"price": 750000,
+			"tenure":"Freehold",
+			"description":"Attractive three bedroom semi-detached family home situated within 0.5 miles of Petts Wood station with fast trains to London and within easy walking distance of local shops, schools, bus routes and National Trust woodland. The property comprises; two receptions, fitted 18'9 x 10'1 kitchen/breakfast room and conservatory. The property also benefits from having a utility room and cloakroom. To the first floor there are three bedrooms and a family bathroom with separate WC. Additional features include double glazing, gas central heating and a well presented interior...",
+			"location":"Petts Wood Road, Petts Wood, Orpington AR17",
+			"picture":"src/assets/images/prop1/prop1pic1.jpg",
+            "category":"sale",
+			"url":"properties/prop1.html",
+            "added": {
+                "month":"October",
+                "day":12,
+                "year":2022   
+            },
+            "mapLink":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2489.674420661694!2d0.07950867580244361!3d51.39066161922573!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47d8ab82cc8f3cb1%3A0xc746da03b0c6c716!2sPetts%20Wood%20Rd%2C%20Petts%20Wood%2C%20Orpington%2C%20UK!5e0!3m2!1sen!2slk!4v1704791263280!5m2!1sen!2slk",
+            "images":[
+                "/src/assets/images/prop1/prop1pic1.jpg",
+                "/src/assets/images/prop1/prop1pic2.jpg",
+                "/src/assets/images/prop1/prop1pic3.jpg",
+                "/src/assets/images/prop1/prop1pic4.jpg",
+                "/src/assets/images/prop1/prop1pic5.jpg",
+                "/src/assets/images/prop1/prop1pic6.jpg"
+            ],
+            "vacantType":"rent",
+            "floorPlan" : "/src/assets/images/floorplan.jpg"
+            
+        },
+		{
+            "id":"prop2",
+			"type":"Flat",
+            "bedrooms":3,
+			"price":990000,
+			"tenure":"Freehold",
+			"description":"Presented in excellent decorative order throughout is this three double bedroom, two bathroom, garden flat. <br>The modern fitted kitchen is open plan to the living room which boasts solid wooden floors and includes integrated appliances including a dishwasher & a washing machine. This large open plan benefits from bi folding doors onto a secluded private courtyard garden. Both bedrooms are double sized, and the family bathroom boasts a matching three piece suite a shower attachment over the bath. There is also a separate wet room. There are walnut doors throughout and wiring for Sky TV/aerial points in the living room/kitchen and both bedrooms.<br>This apartment being only five years old, is still under a 10 year building guarantee...",
+			"location":"Crofton Road Orpington BR6",
+			"picture":"src/assets/images/prop2/4.jpg",
+            "category":"sale",
+			"url":"properties/prop2.html",
+            "added": {
+                "month":"September",
+                "day":14,
+                "year":2022
+            },
+            "mapLink":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2490.614072423679!2d0.06955147580118164!3d51.373391120485365!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47d8ab6ac2bdc8d1%3A0xb0dde3c09939f924!2sCrofton%20Rd%2C%20Orpington%20BR6%2C%20UK!5e0!3m2!1sen!2slk!4v1704793697292!5m2!1sen!2slk",
+            "images":[
+                "/src/assets/images/prop2/1.jpg",
+                "/src/assets/images/prop2/2.jpg",
+                "/src/assets/images/prop2/3.jpg",
+                "/src/assets/images/prop2/4.jpg",
+                "/src/assets/images/prop2/5.jpg",
+                "/src/assets/images/prop2/6.jpg"
+            ],
+            "vacantType":"sale",
+            "floorPlan":"/src/assets/images/floorplan2.jpg"
+            
+
+        },
+        {
+            "id":"prop3",
+			"type":"Flat",
+            "bedrooms":2,
+			"price":490000,
+			"tenure":"Freehold",
+			"description":"Featuring a stylish open-concept design, this residence is crafted for contemporary living with 2 bedroom and 2 bathroom including breathtaking balconies with a sea side view. Each bedroom is thoughtfully designed for comfort  and the open living space is filled with natural light, creating a welcoming atmosphere. This apartment provides easy access to city amenities, dining, and transportation. Within a vibrant community, residents can enjoy fitness facilities, landscaped grounds, and more.Perfect for families or those seeking urban comfort, our 3-bedroom apartment redefines city living. Schedule a viewing and experience the epitome of modern urban lifestyle",
+			"location":"Rosewood Lane, Chesterfield, Derbyshire, DE1 2AB",
+			"picture":"src/assets/images/prop3/5.jpg",
+            "category":"rent",
+			"url":"properties/prop3.html",
+            "added": {
+                "month":"December",
+                "day":20,
+                "year":2022
+            },
+            "mapLink":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3175.5306392791304!2d-77.43721732508014!3d37.25884214171359!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89b1a6fb57538f15%3A0x13b587c79f04c8f2!2sRosewood%20Ln%2C%20Virginia%2023803%2C%20USA!5e0!3m2!1sen!2slk!4v1704793823822!5m2!1sen!2slk",
+            "images":[
+                "/src/assets/images/prop3/1.jpg",
+                "/src/assets/images/prop3/2.jpg",
+                "/src/assets/images/prop3/3.jpg",
+                "/src/assets/images/prop3/4.jpg",
+                "/src/assets/images/prop3/5.jpg",
+                "/src/assets/images/prop3/6.jpg"
+            ],
+            "vacantType":"rent",
+            "floorPlan" : "/src/assets/images/floorplan.jpg"
+        },
+        {
+            "id":"prop4",
+			"type":"House",
+            "bedrooms":3,
+			"price":500000,
+			"tenure":"Freehold",
+			"description":"A charming residence that seamlessly blends character and modern comfort. This inviting 3-bedroom house, nestled in a peaceful neighborhood, is the perfect haven for those seeking a cozy and functional living space. Three well-appointed bedrooms provide ample space for rest and relaxation. A tastefully designed bathroom, centrally located for convenience. Featuring modern fixtures and a soothing color palette, it adds a touch of elegance to your daily routine. The living room is designed for comfort, and the adjoining dining area is perfect for intimate meals or entertaining guests. The efficient kitchen is equipped with modern appliances and offers a delightful space for culinary enthusiasts. Step outside to your private outdoor space—a haven for relaxation or al fresco dining. This home offers the best of both worlds—tranquil living with easy access to urban conveniences.",
+			"location":"Willow Crescent, Brighton, East Sussex, BN2 4FG",
+			"picture":"src/assets/images/prop4/1.jpg",
+            "category":"rent",
+			"url":"properties/prop4.html",
+            "added": {
+                "month":"January",
+                "day":1,
+                "year":2023
+            },
+            "mapLink":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2393.8925478420088!2d-1.2806002184034448!3d53.130074429513414!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4879969c73968821%3A0xf2841ffff69449be!2sWillow%20Cres%2C%20Sutton-in-Ashfield%2C%20UK!5e0!3m2!1sen!2slk!4v1704794315072!5m2!1sen!2slk",
+            "images":[
+                "/src/assets/images/prop4/1.jpg",
+                "/src/assets/images/prop4/2.jpg",
+                "/src/assets/images/prop4/3.jpg",
+                "/src/assets/images/prop4/4.jpg",
+                "/src/assets/images/prop4/5.jpg",
+                "/src/assets/images/prop4/6.jpg"
+            ],
+            "vacantType":"rent",
+            "floorPlan":"/src/assets/images/floorplan2.jpg"
+        },
+        {
+            "id":"prop5",
+			"type":"Bungalow",
+            "bedrooms":6,
+			"price":2000000,
+			"tenure":"Freehold",
+			"description":"This spacious single-story residence offers an unparalleled blend of modern elegance and timeless comfort, creating a tranquil retreat for those who appreciate the finer things in life. Six generously sized bedrooms, each meticulously designed to provide a haven of relaxation. Indulge in spa-like experiences in the thoughtfully designed two bathrooms. The bungalow boasts expansive living areas, including a grand living room and a formal dining space. A chef's dream, the gourmet kitchen is equipped with top-of-the-line appliances, ample counter space, and custom cabinetry.Enjoy the convenience of nearby amenities, schools, and recreational facilities, creating a perfect balance between luxury and everyday convenience.",
+			"location":"Oakwood Avenue, Oxford, Oxfordshire, OX3 7XY",
+			"picture":"src/assets/images/prop5/1.jpg",
+            "category":"sale",
+			"url":"properties/prop5.html",
+            "added": {
+                "month":"February",
+                "day":20,
+                "year":2023
+            },
+            "mapLink":" https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2463.005826855075!2d-0.5060313241628684!3d51.87910618348216!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48764f164289c27b%3A0xcc40c01b432c11a!2sOakwood%20Ave%2C%20Dunstable%2C%20UK!5e0!3m2!1sen!2slk!4v1704794421752!5m2!1sen!2slk",
+            "images":[
+                "/src/assets/images/prop5/1.jpg",
+                "/src/assets/images/prop5/2.jpg",
+                "/src/assets/images/prop5/3.jpg",
+                "/src/assets/images/prop5/4.jpg",
+                "/src/assets/images/prop5/5.jpg",
+                "/src/assets/images/prop5/6.jpg"
+            ],
+            "vacantType":"rent",
+            "floorPlan" : "/src/assets/images/floorplan.jpg"
+        },
+        {
+            "id":"prop6",
+			"type":"Flat",
+            "bedrooms":4,
+			"price":950000,
+			"tenure":"Freehold",
+			"description":" This meticulously designed 4-bedroom flat seamlessly blends modern luxury with practical sophistication. The generously sized bedrooms offer tranquility, complemented by four well-appointed bathrooms featuring contemporary suites and a separate wet room. The open-plan living area, with a modern kitchen and solid wooden floors, opens to a private courtyard garden through bi-folding doors. Walnut doors, wired for Sky TV, and a 10-year building guarantee highlight the attention to detail. Ideal for those seeking urban elegance, this flat provides convenience in a prime location, delivering a perfect fusion of style and comfort.",
+			"location":"Maple Street, Glasgow, Lanarkshire, G1 5PQ",
+			"picture":"src/assets/images/prop6/2.jpg",
+            "category":"rent",
+			"url":"properties/prop6.html",
+            "added": {
+                "month":"March",
+                "day":22,
+                "year":2023
+            },
+            "mapLink":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2482.5088361325334!2d-0.14108382418827822!3d51.52222640962113!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48761b29a9026fb1%3A0xc1f5c64075105677!2sMaple%20St%2C%20London%2C%20UK!5e0!3m2!1sen!2slk!4v1704794500754!5m2!1sen!2slk",
+            "images":[
+                "/src/assets/images/prop6/1.jpg",
+                "/src/assets/images/prop6/2.jpg",
+                "/src/assets/images/prop6/3.jpg",
+                "/src/assets/images/prop6/4.jpg",
+                "/src/assets/images/prop6/5.jpg",
+                "/src/assets/images/prop6/6.jpg"
+            ],
+            "vacantType":"sale",
+            "floorPlan":"/src/assets/images/floorplan3.jpg"
+        },
+        {
+            "id":"prop7",
+			"type":"Bungalow",
+            "bedrooms":7,
+			"price":10000000,
+			"tenure":"Freehold",
+			"description":"Step into opulence with this extraordinary 7-bedroom bungalow, a true embodiment of grand living. Nestled in a serene setting, this residence boasts spacious bedrooms designed for ultimate comfort, accompanied by eight well-appointed bathrooms exuding luxury. The centerpiece of this estate is a magnificent swimming pool, inviting you to indulge in leisure and relaxation. The open-plan living areas seamlessly integrate with a gourmet kitchen, creating a perfect harmony for entertaining. Picture-perfect landscaping surrounds the property, enhancing the outdoor experience. With a wealth of amenities, including a home office, this bungalow caters to every aspect of modern living. Ideal for those who seek the pinnacle of luxury, this estate promises an unparalleled lifestyle where sophistication meets tranquility. Schedule a private viewing to witness the epitome of lavish living.",
+			"location":" Elm Road, Bristol, Somerset, BS8 2NW",
+			"picture":"src/assets/images/prop7/1.jpg",
+			"url":"properties/prop2.html",
+            "added": {
+                "month":"April",
+                "day":14,
+                "year":2022
+            },
+            "mapLink":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2487.221446976415!2d-2.7451383241943894!3d51.43572691593783!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4871f3a9f03071c9%3A0xd278b04a6c5f54a9!2sElm%20Lodge%20Rd%2C%20Bristol%2C%20UK!5e0!3m2!1sen!2slk!4v1704794562723!5m2!1sen!2slk",
+
+            "images":[
+                "/src/assets/images/prop7/1.jpg",
+                "/src/assets/images/prop7/2.jpg",
+                "/src/assets/images/prop7/3.jpg",
+                "/src/assets/images/prop7/4.jpg",
+                "/src/assets/images/prop7/5.jpg",
+                "/src/assets/images/prop7/6.jpg"
+            ],
+            "vacantType":"sale",
+            "floorPlan":"/src/assets/images/floorplan2.jpg"
+        }
+]}
