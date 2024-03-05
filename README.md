@@ -37,6 +37,15 @@ This project is a client-side web application built using React JS, designed to 
 If you have any ideas for improvements or new features, feel free to open an issue or submit a pull request.
 
 
+Pictures of the pages:
+![]()![react (1)](https://github.com/aqdhasali/Urban-Dreams/assets/123635563/aef76892-7ffa-43b8-a898-efa46e455d10)
+![react (2)](https://github.com/aqdhasali/Urban-Dreams/assets/123635563/45534a6f-310f-4431-a13f-f117b570c8dd)
+![react (3)](https://github.com/aqdhasali/Urban-Dreams/assets/123635563/8307f5b0-f7e0-4719-bef4-f3fbe2d4dd92)
+![react (4)](https://github.com/aqdhasali/Urban-Dreams/assets/123635563/7966ba9b-bf53-49ba-b6d2-3f5ebda206b3)
+![react (5)](https://github.com/aqdhasali/Urban-Dreams/assets/123635563/8dff054c-4b0a-4cf5-bf24-2f2822cfceae)
+![react (6)](https://github.com/aqdhasali/Urban-Dreams/assets/123635563/d3ffdc4c-5688-4f83-bcb4-1435687d72c1)
+![react (7)](https://github.com/aqdhasali/Urban-Dreams/assets/123635563/c71b84e3-3758-48f9-8ad0-ed3930e96cac)
+
 
 
 >>>>>>> 2b63e6054f25cd1114b94cdca2e0b8e70dd3320e
